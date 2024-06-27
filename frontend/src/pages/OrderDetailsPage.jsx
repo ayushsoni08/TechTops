@@ -76,7 +76,7 @@ const OrderDetailsPage = () => {
           // contact: '9000090000' //Provide the customer's phone number for better conversion rates
         },
         notes: {
-          address: 'MERN Shop Office'
+          address: 'TechTops Office'
         },
         theme: {
           color: '#FFC107'
