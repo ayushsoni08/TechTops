@@ -41,7 +41,7 @@ cd MERN-eCommerce
 
 ### Env Variables
 
-1. Rename the `.env.example` file to `.env` and add the following environment variables:
+1. Create the `.env` file in the project root directory and add the following environment variables:
 
 ```dotenv
 NODE_ENV=development
